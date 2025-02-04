@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1738696892 source:c:\users\20231094040024\documents\atividade edl\linkedlist_2\main.cpp
+	<iostream>
+	"doublylinkedlist.h"
+
+1738697058 c:\users\20231094040024\documents\atividade edl\linkedlist_2\doublylinkedlist.h
+	<iostream>
+

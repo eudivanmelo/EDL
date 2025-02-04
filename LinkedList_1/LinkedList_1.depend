@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1738694136 source:c:\users\20231094040024\documents\atividade edl\linkedlist_1\main.cpp
+	<iostream>
+	"linked_list.h"
+
+1738695192 c:\users\20231094040024\documents\atividade edl\linkedlist_1\linked_list.h
+	<iostream>
+

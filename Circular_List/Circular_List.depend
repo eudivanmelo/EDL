@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1738700074 source:c:\users\20231094040024\documents\atividade edl\circular_list\main.cpp
+	<iostream>
+	"circularlist.h"
+
+1738700186 c:\users\20231094040024\documents\atividade edl\circular_list\circularlist.h
+	<iostream>
+
